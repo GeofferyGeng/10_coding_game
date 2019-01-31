@@ -18,14 +18,13 @@ def main():
     y = random.randint(100, 999)
     while True:
         x = x_input()
-        if x>y:
-            print("大了")
-        elif x<y:
-            print("小了")
+        if x > y:
+            print("太大了")
+        elif x < y:
+            print("太小了")
         else:
             print("恭喜您猜对啦！")
             break
-
 
 
 if __name__ == '__main__':
