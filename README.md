@@ -117,3 +117,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 想要更多的挑战？可以去这里看看：http://www.pythonchallenge.com/
+
+
+
+转自 Python之禅，侵删
