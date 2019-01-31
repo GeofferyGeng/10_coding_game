@@ -1,7 +1,7 @@
 # 10_coding_game
 
 
-10个编程小游戏
+##10个编程小游戏
 
 
 
@@ -9,7 +9,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-一、猜数字
+##一、猜数字
 
 
 经典的猜数字游戏，几乎所有人学编程时都会做。
@@ -19,14 +19,14 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-二、FizzBuzz
+##二、FizzBuzz
 
 
 功能描述：遍历并打印0到100，如果数字能被3整除，显示Fizz；如果数字能被5整除，显示Buzz；如果能同时被3和5整除，就显示FizzBuzz。结果应该类似：0,1,2，Fizz，4，Buzz，6……14，FizzBuzz，16……
 
 
 
-三、猜数字的AI
+##三、猜数字的AI
 
 
 
@@ -37,7 +37,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
  
 
-四、整点报时
+##四、整点报时
 
 老式挂钟会在整点的报时，响铃的次数和时间相等。我们设计一个在电脑上运行的报时器。
 
@@ -47,7 +47,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-五、敏感词审查
+##五、敏感词审查
 
 
 一向痛恨网络审查的你成了某网站的审查员，要求审查网络上违反上头规定的名词。
@@ -58,7 +58,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-六、文字冒险游戏
+##六、文字冒险游戏
 
 
 你想做个清新脱俗的文字游戏，只在命令行的黑框里运行。
@@ -69,7 +69,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-七、词频统计
+##七、词频统计
 
 
 你想分析某个英语写作者的写作风格，你想先从他使用词语的频率入手。
@@ -80,7 +80,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-八、Markdown转换器
+##八、Markdown转换器
 
 
 
@@ -92,7 +92,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-九、邮件轰炸机
+##九、邮件轰炸机
 
 
 
@@ -104,7 +104,7 @@ GitHub地址：https://github.com/greyli/PythonExercises
 
 
 
-十、用邮件控制电脑
+##十、用邮件控制电脑
 
 
 
