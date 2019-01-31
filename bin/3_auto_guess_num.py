@@ -31,7 +31,6 @@ def method_2():
     i = 0
 
 
-
 def main():
     method_2()
 
