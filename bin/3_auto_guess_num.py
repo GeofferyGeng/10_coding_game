@@ -4,15 +4,12 @@ import math
 
 def main():
     b = 100
-    c = 1000
+    c = 10000
     a = round((b + c) / 2)
     y = random.randint(b, c)
     i = 0
     while True:
         i = i + 1
-        print(i)
-        print(a)
-        print(y)
         if a > y:
             c = a
             a = math.floor((c + b) / 2)
